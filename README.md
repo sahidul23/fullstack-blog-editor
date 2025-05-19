@@ -55,3 +55,10 @@ cd blog-editor
 npm install
 npm start
 Runs at: http://localhost:3000
+
+
+## 🎬 Demo Video
+
+Watch the working demo here:  
+👉 [Watch on Google Drive](https://drive.google.com/file/d/12E9gfUuX-tYhV0E0bM5Cq0kjIdYIJQry/view?usp=sharing)
+
